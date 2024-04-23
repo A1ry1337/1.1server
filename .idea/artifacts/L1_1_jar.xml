@@ -3,10 +3,9 @@
     <output-path>$PROJECT_DIR$/out/artifacts/L1_1_jar</output-path>
     <root id="archive" name="L1.1.jar">
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
       </element>
       <element id="module-output" name="L1.1" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.3.0.M0/jetty-server-9.3.0.M0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/9.3.0.M0/jetty-http-9.3.0.M0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-io/9.3.0.M0/jetty-io-9.3.0.M0.jar" path-in-jar="/" />
